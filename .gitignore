@@ -1,0 +1,16 @@
+# Bazel symlinks and caches
+bazel-*
+bazel-bin
+bazel-out
+bazel-testlogs
+bazel-algo_cpp
+
+# C++ build artifacts
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+
+# OS files
+.DS_Store
